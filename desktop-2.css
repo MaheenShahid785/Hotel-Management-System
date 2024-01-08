@@ -1,0 +1,644 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-2-iMb {
+  width: 100%;
+  height: 102.4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.desktop-2-iMb .desktop-1-G8D {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #dd9292;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-y4bo-cSy {
+  width: 100%;
+  height: 28.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-y4bo-cSy .rectangle-1-Z7K {
+  width: 144rem;
+  height: 15.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #dda0b6;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-y4bo-cSy .hotel-management-system-Jah {
+  width: 77.4rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 33.3rem;
+  top: 4.6rem;
+  font-size: 5.1284rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-y4bo-cSy .rectangle-6-CRB {
+  width: 144rem;
+  height: 13rem;
+  position: absolute;
+  left: 0;
+  top: 15.1rem;
+  background-color: #f1a290;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-y4bo-cSy .function-list-YE9 {
+  width: 13.2rem;
+  height: 7.4rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 15.8rem;
+  font-size: 3.04rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-y4bo-cSy .employee-info-EMs {
+  width: 14rem;
+  height: 7.4rem;
+  position: absolute;
+  left: 21.7rem;
+  top: 16.2rem;
+  font-size: 3.04rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-y4bo-cSy .management-i29 {
+  width: 16.9rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 42.3rem;
+  top: 16.6rem;
+  font-size: 2.7135rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-y4bo-cSy .reserve-and-checkout-d97 {
+  width: 13.3rem;
+  height: 10.7rem;
+  position: absolute;
+  left: 65.3rem;
+  top: 16.1rem;
+  font-size: 2.9397rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-y4bo-cSy .room-info-management-YG5 {
+  width: 18rem;
+  height: 10.6rem;
+  position: absolute;
+  left: 83.3rem;
+  top: 16.2rem;
+  font-size: 2.9031rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-y4bo-cSy .customer-info-query-FRP {
+  width: 14.1rem;
+  height: 11.1rem;
+  position: absolute;
+  left: 110rem;
+  top: 16.1rem;
+  font-size: 3.04rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-y4bo-cSy .change-password-xqb {
+  width: 12.5rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 129.5rem;
+  top: 16.4rem;
+  font-size: 2.695rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX {
+  box-sizing: border-box;
+  padding: 0.5rem 7.299rem 3.8rem 10.8rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-hbpq-8tV {
+  margin: 0rem 20.501rem 1.3rem 40.9rem;
+  box-sizing: border-box;
+  padding-left: 52.1rem;
+  width: calc(100% - 61.4007rem);
+  font-size: 3.8831rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #fcf9f9;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-dsbs-yeD {
+  margin: 0rem 19.601rem 3.1rem 15.4rem;
+  width: calc(100% - 35.0007rem);
+  height: 8.7rem;
+  font-size: 5.8867rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-az4h-DHf {
+  margin: 0rem 19.601rem 1rem 15.4rem;
+  width: calc(100% - 35.0007rem);
+  height: 5.4rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-az4h-DHf .room-number--KLh {
+  margin-right: 5.9rem;
+  font-size: 3.8831rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #f4e9e9;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-az4h-DHf .rectangle-8-EiZ {
+  margin: 0.3rem 7.6rem 0rem 0rem;
+  width: 25rem;
+  height: 5.1rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-az4h-DHf .auto-group-tdqf-itd {
+  margin: 0.1rem 0rem 0.2rem 0rem;
+  width: 25rem;
+  height: calc(100% - 0.3rem);
+  font-size: 3.8831rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh {
+  margin-bottom: 0.1rem;
+  width: 100%;
+  height: 38.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .rectangle-5-RRf {
+  width: 53.4rem;
+  height: 7.7rem;
+  position: absolute;
+  left: 72.5rem;
+  top: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .room-type--9cZ {
+  width: 21.7rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 15.4rem;
+  top: 0;
+  font-size: 3.8831rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #fdfbfb;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .rectangle-9-3C9 {
+  width: 25rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 48.7rem;
+  top: 2.2rem;
+  background-color: #d9d9d9;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .rectangle-11-x4D {
+  width: 25rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 81.3rem;
+  top: 2.4rem;
+  background-color: #d9d9d9;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .v-rfP {
+  width: 2.2rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 70.3rem;
+  top: 3rem;
+  font-size: 3.8831rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .search-XmX {
+  width: 12.4rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 87.8rem;
+  top: 2rem;
+  font-size: 3.8831rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .rectangle-12-ER3 {
+  width: 125.8rem;
+  height: 28.9rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 10rem;
+  background-color: #d9d9d9;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .delete-jsb {
+  width: 10.9rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 110.4rem;
+  top: 20.1rem;
+  font-size: 3.5564rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .room-type-THo {
+  width: 10.5rem;
+  height: 9.5rem;
+  position: absolute;
+  left: 20.3rem;
+  top: 9rem;
+  font-size: 3.8831rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .line-1-mZP {
+  width: 0.8082rem;
+  height: 22.8rem;
+  position: absolute;
+  left: 17.5459rem;
+  top: 10rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .line-2-WG5 {
+  width: 3.9382rem;
+  height: 23.3042rem;
+  position: absolute;
+  left: 32.7807rem;
+  top: 9.4958rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .line-3-qp9 {
+  width: 0;
+  height: 22.25rem;
+  position: absolute;
+  left: 52rem;
+  top: 10.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .line-4-njP {
+  width: 0.7887rem;
+  height: 22.8rem;
+  position: absolute;
+  left: 82.4556rem;
+  top: 10rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .line-5-8YM {
+  width: 7.8035rem;
+  height: 22.75rem;
+  position: absolute;
+  left: 101.5475rem;
+  top: 10.05rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .line-6-eFo {
+  width: 125.3494rem;
+  height: 3.188rem;
+  position: absolute;
+  left: 0.55rem;
+  top: 17.056rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .line-7-yJ5 {
+  width: 125.5998rem;
+  height: 0.9976rem;
+  position: absolute;
+  left: 0.0002rem;
+  top: 25.7512rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .line-8-JbF {
+  width: 125.9007rem;
+  height: 3.6136rem;
+  position: absolute;
+  left: 0;
+  top: 31.0432rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .room-number-TDF {
+  width: 14.7rem;
+  height: 9.5rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 9rem;
+  font-size: 3.8831rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .room-price-yBb {
+  width: 10.5rem;
+  height: 9.5rem;
+  position: absolute;
+  left: 38.2rem;
+  top: 9.5rem;
+  font-size: 3.8831rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .room-details-6GD {
+  width: 12.6rem;
+  height: 9.5rem;
+  position: absolute;
+  left: 60.6rem;
+  top: 9.5rem;
+  font-size: 3.8831rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .modify-neq {
+  width: 12.7rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 87.8rem;
+  top: 11.9rem;
+  font-size: 3.8831rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .delete-hmo {
+  width: 11.9rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 109.4rem;
+  top: 11.9rem;
+  font-size: 3.8831rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .detail-QRK {
+  width: 9.7rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 88.6rem;
+  top: 20.1rem;
+  font-size: 3.5564rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .detail-gtd {
+  width: 9.7rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 88.6rem;
+  top: 27.2rem;
+  font-size: 3.5564rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .delete-cGV {
+  width: 10.9rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 110.4rem;
+  top: 27.2rem;
+  font-size: 3.5564rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .line-9-8Vj {
+  width: 9.4rem;
+  height: 0.5471rem;
+  position: absolute;
+  left: 88.7rem;
+  top: 23.4765rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .line-10-fEm {
+  width: 10.1rem;
+  height: 0.4807rem;
+  position: absolute;
+  left: 88.55rem;
+  top: 30.6097rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .line-11-13j {
+  width: 11.0499rem;
+  height: 0.2167rem;
+  position: absolute;
+  left: 109.95rem;
+  top: 23.5917rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .line-12-k1K {
+  width: 10.9rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 110.4rem;
+  top: 31rem;
+  background-color: #000000;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .room-page-Ui1 {
+  width: 19.1rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 53.4rem;
+  top: 33.8rem;
+  font-size: 3.5564rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .line-13-nyb {
+  width: 1.3rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 70.7rem;
+  top: 4.8rem;
+  background-color: #000000;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .vector-1-tmj {
+  width: 0.2513rem;
+  height: 0.9415rem;
+  position: absolute;
+  left: 71.6497rem;
+  top: 4.8693rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .vector-2-QVB {
+  width: 0.4253rem;
+  height: 0.0886rem;
+  position: absolute;
+  left: 71.1857rem;
+  top: 5.3237rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .vector-3-8g5 {
+  width: 0.4348rem;
+  height: 0.7442rem;
+  position: absolute;
+  left: 70.915rem;
+  top: 4.9467rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .vector-4-GnH {
+  width: 0.1083rem;
+  height: 0.522rem;
+  position: absolute;
+  left: 71.2727rem;
+  top: 5.7974rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .vector-5-Pc1 {
+  width: 0.0896rem;
+  height: 0.0967rem;
+  position: absolute;
+  left: 71.5118rem;
+  top: 5.0723rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .vector-6-vM3 {
+  width: 0.1474rem;
+  height: 0.3577rem;
+  position: absolute;
+  left: 71.3863rem;
+  top: 5.5847rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ytjv-vzh .vector-7-F8R {
+  width: 0.8217rem;
+  height: 0.0969rem;
+  position: absolute;
+  left: 70.8764rem;
+  top: 4.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-iMb .desktop-1-G8D .auto-group-5jrq-eTX .auto-group-ezlm-aAh {
+  margin-right: 83.6007rem;
+  width: 25.7rem;
+  height: 6.7rem;
+  font-size: 3.5564rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f87474;
+  flex-shrink: 0;
+}
